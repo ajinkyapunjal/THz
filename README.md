@@ -2,10 +2,10 @@
 
 ## Prequisites Softwares
 Originlab Origin 2021\
-Jupyter Notebook\
+Jupyter Notebook
 
 ## Prequisites Python Libraries
 numpy\
 pandas\
 originpro\
-os\
+os
