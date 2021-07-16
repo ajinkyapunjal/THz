@@ -11,6 +11,6 @@ originpro\
 os
 
 ## Required Files
-Program          <\dd>        - Origin-Python.ipynb\
-text file        &nbsp;&nbsp;        - analysisfilename.txt\
-origin template  &nbsp;              - importtofft.otwu
+Program - Origin-Python.ipynb\
+text file - analysisfilename.txt\
+origin template - importtofft.otwu
