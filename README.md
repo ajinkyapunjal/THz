@@ -1,16 +1,16 @@
 # Terahertz Time Domain Analysis
 
 ## Prequisites Softwares
-Originlab Origin 2021\
-Jupyter Notebook
+1. Originlab Origin 2021\
+2. Jupyter Notebook
 
 ## Prequisites Python Libraries
-numpy\
-pandas\
-originpro\
-os
+1. numpy\
+2. pandas\
+3. originpro\
+4. os
 
 ## Required Files
-Program - Origin-Python.ipynb\
-text file - analysisfilename.txt\
-origin template - importtofft.otwu
+1. Program - Origin-Python.ipynb\
+2. text file - analysisfilename.txt\
+3. origin template - importtofft.otwu
